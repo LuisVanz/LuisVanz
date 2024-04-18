@@ -14,3 +14,6 @@
 **Ferramentas de aprendizado**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+## Onde me encontrar
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/LuisVanz)
