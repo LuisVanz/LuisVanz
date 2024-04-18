@@ -22,7 +22,6 @@
         alt="Github Stats"
       />
     </td>
-
      <td>
       <br />
       <img
