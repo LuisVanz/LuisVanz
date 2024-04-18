@@ -17,4 +17,4 @@
 
 ## Onde me encontrar
 [![Gmail Badge](https://img.shields.io/badge/-luisvanz21@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/LuisVanz)
+
