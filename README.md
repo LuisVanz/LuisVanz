@@ -16,5 +16,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## Onde me encontrar
-[![Gmail Badge](https://img.shields.io/badge/-luisvanz21@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)
+![Gmail Badge](https://img.shields.io/badge/-luisvanz21@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)
 
