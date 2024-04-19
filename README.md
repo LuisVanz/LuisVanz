@@ -8,6 +8,7 @@
   <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=LuisVanz&show_icons=true&count_private=true&theme=vue-dark"/>
 
 
+  <a  height="40" width="50" href="https://instagram.com/luis_xvl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 </a>
 </div>
@@ -18,7 +19,7 @@
 <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisVanz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
@@ -26,7 +27,7 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=LuisVanz&theme=dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
