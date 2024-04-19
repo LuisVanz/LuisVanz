@@ -33,7 +33,7 @@
 **Ferramentas de aprendizado**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white
+![APACHE](https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white)
 
 ### ⚙️ GitHub Analytics
 
