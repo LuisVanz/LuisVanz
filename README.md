@@ -9,6 +9,7 @@
 
 
   <a  height="40" width="50" href="https://instagram.com/luis_xvl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a height="40" width="50" href = "mailto:luisvanz21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </a>
 </div>
