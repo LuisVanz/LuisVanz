@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisvanz&label=Profile%20views&color=0e75b6&style=flat" alt="luisvanz" /> </p>
 
+## Sobre mim
+
 - 🌱 Atualmente estou aprendendo **HTML5, CSS3, JavaScript, Java, Banco de Dados**
 
 - 📫 Como entrar em contato comigo **luisvanz21@gmail.com**
