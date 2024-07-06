@@ -10,9 +10,9 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/luishenriquemedeirosvanz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis henrique medeiros vanz" height="30" width="40" /></a>
-<a href="https://twitter.com/luisvanz21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luis vibes🌊🐉" height="30" width="40" /></a>
-<a href="https://fb.com/luis.medeirosvanz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luis medeiros vanz" height="30" width="40" /></a>
 <a href="https://instagram.com/luisx_xvl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luisx_xvl" height="30" width="40" /></a>
+<a href="https://fb.com/luis.medeirosvanz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luis medeiros vanz" height="30" width="40" /></a>
+<a href="https://twitter.com/luisvanz21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luis vibes🌊🐉" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
