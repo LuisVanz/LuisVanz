@@ -1,58 +1,26 @@
-## Sobre mim
+<h1 align="center">Olá 👋, sou Luis Henrique Medeiros Vanz</h1>
+<h3 align="center">Um estudante fazendo um curso técnico em análise e desenvolvimento de sistemas do Brasil</h3>
 
-- 🤔 Descobrindo meu rumo na programação e tentando entender soluções de software.
-- 🎓 Estudando {Técnico em Desenvolvimento de Sistemas} no {SENAC TECH}.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luisvanz&label=Profile%20views&color=0e75b6&style=flat" alt="luisvanz" /> </p>
 
-<div>
-<a href = "https://github.com/anuraghazra/github-readme-stats">
-  <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=LuisVanz&show_icons=true&count_private=true&theme=vue-dark"/>
+- 🌱 Atualmente estou aprendendo **HTML5, CSS3, JavaScript, Java, Banco de Dados**
 
-  
-</a>
-</div>
+- 📫 Como entrar em contato comigo **luisvanz21@gmail.com**
 
- <a  height="40" width="50" href="https://instagram.com/luis_xvl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a height="40" width="50" href = "mailto:luisvanz21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a height="40" width="50" href = "mailto:luisvanz21@gmail.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
- <div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/iuricode/count.svg"
-    alt="Número de visitantes no perfil"
-  />
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://twitter.com/luis vibes🌊🐉" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luis vibes🌊🐉" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luis henrique medeiros vanz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis henrique medeiros vanz" height="30" width="40" /></a>
+<a href="https://fb.com/luis medeiros vanz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luis medeiros vanz" height="30" width="40" /></a>
+<a href="https://instagram.com/luisx_xvl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luisx_xvl" height="30" width="40" /></a>
 </p>
 
-**Aplicações e dados**
+<h3 align="left">Idiomas e ferramentas:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" altura="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisvanz&show_icons=true&locale=en&layout=compact" alt="luisvanz" /></p>
 
-**Ferramentas de aprendizado**
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisvanz&show_icons=true&locale=en" alt="luisvanz" /></p>
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![APACHE](https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white)
-
-### ⚙️ GitHub Analytics
-
-<td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisVanz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-     <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=LuisVanz&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luisvanz&" alt="luisvanz" /></p>
 
