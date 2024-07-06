@@ -7,7 +7,7 @@
 
 - 🌱 Atualmente estou aprendendo **HTML5, CSS3, JavaScript, Java, Banco de Dados**
 
-- 📫 Como entrar em contato comigo ![image](https://github.com/LuisVanz/LuisVanz/assets/127246358/ba7c3ba9-d689-456f-ad1c-74879d0d7e4c)
+- 📫 Como entrar em contato comigo 
 
 
 <h3 align="left">Conecte-se comigo:</h3>
