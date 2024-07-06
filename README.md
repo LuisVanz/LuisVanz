@@ -1,6 +1,8 @@
 <h1 align="center">Olá 👋, sou Luis Henrique Medeiros Vanz</h1>
 <h3 align="center">Um estudante fazendo um curso técnico em análise e desenvolvimento de sistemas no Brasil</h3>
 
+![ezgif com-resize (3)](https://github.com/devsuperior/aulao_nmais1/assets/127246358/bdd44cbb-9462-40c2-8df5-a8e48ddc37a5)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisvanz&label=Profile%20views&color=0e75b6&style=flat" alt="luisvanz" /> </p>
 
 ## Sobre mim
