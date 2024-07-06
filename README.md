@@ -7,8 +7,7 @@
 
 - 🌱 Atualmente estou aprendendo **HTML5, CSS3, JavaScript, Java, Banco de Dados**
 
-- 📫 Como entrar em contato comigo 
-
+- 📫 Como entrar em contato comigo **luisvanz21@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
