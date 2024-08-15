@@ -30,7 +30,64 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![APACHE](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
 
+<div class="tables-container">
+            <table class="table table-hard-skills">
+                <thead>
+                    <tr>
+                        <th colspan="2">Hard Skills</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Programação</td>
+                        <td>Conhecimento em linguagens como HTML, CSS, JavaScript e Java</td>
+                    </tr>
+                    <tr>
+                        <td>Desenvolvimento Web</td>
+                        <td>HTML, CSS e JavaScript</td>
+                    </tr>
+                    <tr>
+                        <td>Banco de dados</td>
+                        <td>SQL</td>
+                    </tr>
+                </tbody>
+            </table>
 
+  <table class="table table-soft-skills">
+                <thead>
+                    <tr>
+                        <th colspan="2">Soft Skills</th>
+                    </tr>
+                    <br>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Comunicação Eficaz</td>
+                        <td>Escuta Ativa: Ouvir atentamente os colegas</td>
+                    </tr>
+                    <tr>
+                        <td>Clareza na Comunicação</td>
+                        <td>Expressar ideias de maneira clara e concisa, tanto verbalmente quanto por escrito.</td>
+                    </tr>
+                    <tr>
+                        <td>Trabalho em equipe</td>
+                        <td>Colaboração: Trabalhar bem com outras pessoas para alcançar um objetivo comum, oferecendo suporte e compartilhando responsabilidades.</td>
+                    </tr>
+                    <tr>
+                        <td>Empatia</td>
+                        <td>Compreender e considerar as perspectivas e sentimentos dos outros membros da equipe.</td>
+                    </tr>
+                    <tr>
+                        <td>Inteligência Emocional</td>
+                        <td>Autocontrole: Gerenciar suas emoções de forma adequada para lidar com situações estressantes de maneira calma e eficaz.</td>
+                    </tr>
+                    <tr>
+                        <td>Relacionamento Interpessoal</td>
+                        <td>Construir e manter relacionamentos positivos com colegas e clientes.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisvanz&show_icons=true&locale=en&layout=compact" alt="luisvanz" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisvanz&show_icons=true&locale=en" alt="luisvanz" /></p>
