@@ -12,6 +12,7 @@
 - 📫 Como entrar em contato comigo **luisvanz21@gmail.com**
 
 - <a href = "mailto:luisvanz21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+- 2 Lugar - como melhor ideia de um projeto no Desafio Tech Senac 🥈
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
