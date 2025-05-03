@@ -7,7 +7,7 @@
 
 ## Sobre mim
 
-- 🌱 Atualmente estou aprendendo **HTML5, CSS3, JavaScript, Java, Banco de Dados**
+- 🌱 Atualmente estou aprendendo mais sobre **HTML5, CSS3, JavaScript, Java, Banco de Dados, MySQL, Laravel, Node.js, React,jQuery, Bootstrap, Programação Orientada a Objetos, MVC, Testes de Software, UML (Casos de Uso, Diagrama de Classes), Diagrama Entidade-Relacionamento**
 
 - 📫 Como entrar em contato comigo **luisvanz21@gmail.com**
 
