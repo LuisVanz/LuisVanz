@@ -11,7 +11,7 @@
 
 - 2 Lugar - como melhor ideia de um projeto Front end no Desafio Tech do Senac Tech - RS 🥈
 
-<a href="https://luisvanz.github.io/Pessoal/curriculo.html" target="_blank">Visualizar meu curriculo</a>
+<a href="https://luisvanz.github.io/Pessoal/curriculo.html" target="_blank">Visualizar meu portfólio</a>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
