@@ -86,9 +86,6 @@
                 </tbody>
             </table>
         </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisvanz&show_icons=true&locale=en&layout=compact" alt="luisvanz" /></p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisvanz&show_icons=true&locale=en" alt="luisvanz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luisvanz&" alt="luisvanz" /></p>
 
