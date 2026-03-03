@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Luis Henrique Medeiros Vanz</h1>
-<h3 align="center">Um estudante fazendo um curso técnico em análise e desenvolvimento de sistemas no Brasil</h3>
+<h3 align="center">Um estudante formado no curso técnico em análise e desenvolvimento de sistemas no Brasil e buscando fazer faculdade</h3>
 
 ![ezgif com-resize (3)](https://github.com/devsuperior/aulao_nmais1/assets/127246358/bdd44cbb-9462-40c2-8df5-a8e48ddc37a5)
 
