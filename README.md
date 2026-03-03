@@ -9,7 +9,7 @@
 
 - 🌱 Atualmente estou aprendendo mais sobre **HTML5, CSS3, JavaScript, Java, Banco de Dados, MySQL, Laravel, Node.js, React,jQuery, Bootstrap, Programação Orientada a Objetos, MVC, Testes de Software, UML (Casos de Uso, Diagrama de Classes), Diagrama Entidade-Relacionamento**
 
-- 2 Lugar - como melhor ideia de um projeto Front end no Desafio Tech Senac 🥈
+- 2 Lugar - como melhor ideia de um projeto Front end no Desafio Tech Senac-RS 🥈
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
