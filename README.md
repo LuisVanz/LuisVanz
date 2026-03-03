@@ -9,9 +9,6 @@
 
 - 🌱 Atualmente estou aprendendo mais sobre **HTML5, CSS3, JavaScript, Java, Banco de Dados, MySQL, Laravel, Node.js, React,jQuery, Bootstrap, Programação Orientada a Objetos, MVC, Testes de Software, UML (Casos de Uso, Diagrama de Classes), Diagrama Entidade-Relacionamento**
 
-- 📫 Como entrar em contato comigo **luisvanz21@gmail.com**
-
-- <a href = "mailto:luisvanz21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 - 2 Lugar - como melhor ideia de um projeto Front end no Desafio Tech Senac 🥈
 
 <h3 align="left">Conecte-se comigo:</h3>
