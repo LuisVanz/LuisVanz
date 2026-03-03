@@ -11,6 +11,8 @@
 
 - 2 Lugar - como melhor ideia de um projeto Front end no Desafio Tech do Senac Tech - RS 🥈
 
+<a href="https://luisvanz.github.io/Pessoal/curriculo.html" target="_blank">Visualizar meu curriculo</a>
+
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/luishenriquemedeirosvanz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis henrique medeiros vanz" height="30" width="40" /></a>
